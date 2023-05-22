@@ -1,16 +1,6 @@
-
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=C0nanT&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-  text_color="#0000ff"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=C0nanT&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=C0nanT&show_icons=true" />
-</picture>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=C0nanT&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Conan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
