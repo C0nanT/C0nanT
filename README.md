@@ -2,7 +2,7 @@
  <div>
 <a href="https://github.com/C0nanT">
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=C0nanT&theme=dark"/>
- <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=C0nanT&theme=dark"/>
+<!--  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=C0nanT&theme=dark"/> -->
  </div>
 
  <br>
