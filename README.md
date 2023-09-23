@@ -1,8 +1,9 @@
+<!--
  <div align="center">
  <div>
 <a href="https://github.com/C0nanT">
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=C0nanT&theme=dark"/>
-<!--  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=C0nanT&theme=dark"/> -->
+<!--  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=C0nanT&theme=dark"/> 
  </div>
 
  <br>
@@ -14,3 +15,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
+-->
