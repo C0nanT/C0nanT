@@ -16,3 +16,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
 -->
+
+
+<p align="center">
+<a href="https://wakatime.com/@C0nanT"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=C0nanT&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@C0nanT's wakatime stats"/></a>
+</p>
